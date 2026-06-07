@@ -1,4 +1,5 @@
 ## Hi there 👋
+# im obsessing over inference right now! reach out to me on linkedin
 ![Javier's GitHub stats](https://github-stats-extended.vercel.app/api?username=javierlimt6)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rel1sh?theme=dark)
 
