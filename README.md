@@ -1,5 +1,6 @@
 ## Hi there 👋
 im obsessing over inference right now! reach out to me on linkedin
+
 Founding LLM Infrastructure @ Piris Labs (YC W26), ex-ByteDance ex-IBM
 
 ![Javier's GitHub stats](https://github-stats-extended.vercel.app/api?username=javierlimt6)
