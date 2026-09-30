@@ -3,7 +3,7 @@ im obsessing over inference right now! reach out to me on linkedin
 
 Founding LLM Infrastructure @ Piris Labs (YC W26), ex-ByteDance ex-IBM
 
-![Javier's GitHub stats](https://github-stats-extended.vercel.app/api?username=javierlimt6)
+![Javier's GitHub stats](https://github-stats-extended.vercel.app/api?username=javierlimt6&count_private=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rel1sh?theme=dark)
 
 
